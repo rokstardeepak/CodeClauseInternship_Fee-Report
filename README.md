@@ -44,7 +44,7 @@ Follow these steps to set up and use the Fee Report System on your local machine
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/fee-report-system.git
+   git clone https://github.com/rokstardeepak/CodeClauseInternship_Fee-Report.git
 2. Navigate to the project directory:
 
 cd fee-report-system
